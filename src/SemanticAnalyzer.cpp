@@ -1,5 +1,3 @@
-
-
 #include "SemanticAnalyzer.h"
 
 #include "Lexer.h"
